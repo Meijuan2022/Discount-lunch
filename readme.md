@@ -33,4 +33,4 @@ Activate the virtual environment
 
 6. Create a superuser
 ```python manage.py createsuperuser```
-# Discount-lunch
+
